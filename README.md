@@ -197,7 +197,3 @@ MIT
 ## 🤝 Support
 
 For issues or questions, check the troubleshooting section above.
-
----
-
-Built with ❤️ using Claude AI
